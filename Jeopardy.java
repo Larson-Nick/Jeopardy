@@ -4,5 +4,6 @@ public class Jeopardy
     {
         Game g = new Game();
         g.start();
+        //This would start the game.
     } 
 }
